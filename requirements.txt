@@ -1,0 +1,6 @@
+flask
+nltk
+cdifflib
+pandas
+requests
+beautifulsoup4
